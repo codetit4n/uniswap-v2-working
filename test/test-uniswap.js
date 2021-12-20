@@ -1,5 +1,4 @@
 const BN = require("bn.js");
-const { isTypedArray } = require("util/types");
 const IERC20 = artifacts.require("IERC20");
 const TestUniswap = artifacts.require("TestUniswap");
 
